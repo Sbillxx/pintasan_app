@@ -7,5 +7,5 @@ npm run build && npm start
 ```
 
 - Tambah pintasan baru: edit `lib/links.js`.
-- Logo: `components/Logo.js` (di halaman) dan `app/icon.svg` (favicon otomatis dari Next.js).
+- Logo: `components/Logo.js` (di halaman) dan `app/icon.png` (favicon otomatis dari Next.js).
 - Deploy ke Vercel: push ke GitHub lalu import repo-nya, tanpa konfigurasi tambahan.
